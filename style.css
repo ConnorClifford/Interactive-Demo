@@ -1,0 +1,15 @@
+html{
+  text-align: center;
+}
+.button{
+  display:block;
+  margin:auto;
+  width: 25%;
+  border:1px solid black;
+}
+.title{
+  display:block;
+}
+.text{
+  display:block;
+}
